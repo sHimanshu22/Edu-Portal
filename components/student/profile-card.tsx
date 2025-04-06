@@ -15,13 +15,13 @@ export default function ProfileCard() {
 
   // Mock student data
   const studentData = {
-    name: "Alex Johnson",
-    email: "alex.johnson@example.com",
-    phone: "+1 (555) 123-4567",
-    parentName: "Robert Johnson",
-    parentPhone: "+1 (555) 987-6543",
-    batch: "Web Development 2023",
-    joinDate: "2023-09-01",
+    name: "Dumneshwar Sonawane",
+    email: "dumneshwar22@gmail.com.com",
+    phone: "+91 8208527003",
+    parentName: "Sharad Sonawane",
+    parentPhone: "+91 9923599620",
+    batch: "Web Development 2025",
+    joinDate: "2025-04-02",
   }
 
   const handleSaveProfile = () => {
